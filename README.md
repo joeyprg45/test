@@ -1,3 +1,3 @@
 # test
 テスト用リポジトリ
-AIUEO kakikukeko
+AIUEO AAA BBB CCC
