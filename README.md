@@ -1,3 +1,3 @@
 # test
 テスト用リポジトリ
-AIUEO
+AIUEO AAA BBB CCC
